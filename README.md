@@ -17,6 +17,8 @@ __          __    __            _____  __            _____ ___
 # Introduction
 This is the README of the Wafer D1 and Wafer D2 dataset. If you use these datasets, please consider citing the following paper:
 
+Furnari G, Vattiato F, Allegra D, Milotta FLM, Orofino A, Rizzo R, De Palo RA, Stanco F. An Ensembled Anomaly Detector for Wafer Fault Detection. Sensors. 2021; 21(16):5465. https://doi.org/10.3390/s21165465
+
 # Datasets info
 Datasets concern semiconductors industry, both datasets contain timeseries made by a variable number of time samples.
 Both datasets have 5 reference columns: MaterialID, StepID, duration_ms, target and is_test.
